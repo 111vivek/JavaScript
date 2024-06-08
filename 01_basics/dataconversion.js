@@ -17,3 +17,13 @@ console.log(typeof(x));
 // 1=> true ; 0=> false
 // ""=> false
 //"Vivek"=> true
+
+//**************operations**************** */
+
+console.log(1+"1"+"2")
+console.log("1"+1+2) // convert the whole in string
+console.log("1"+"1"+2) // convert the whole in string
+
+console.log(1+2+"2")
+
+console.log(+true)
